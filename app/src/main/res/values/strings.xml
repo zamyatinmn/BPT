@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BPT</string>
+    <string name="heart_rate_description">Heart rate</string>
+    <string name="fab_description">Add measurement</string>
+    <string name="new_measurement_dialog_title">New measurement</string>
+    <string name="bp">BP: </string>
+    <string name="hr">HR: </string>
 </resources>
